@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Stevens Point Area Run Club
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Friendly club full of run and fun
+subheading: Run With A Family
 mainpitch:
-  title: Why Kaldi
+  title: Why SPARC
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    This club is for anyone who is interested in meeting other people with
+    running/walking interests, as well as possibly making some lifelong
+    friends. 
+description: Once a week there will be an organized run, somewhere on the Green
+  Circle Trail, or some other trail in the Stevens Point area, and anyone and
+  everyone is welcome to join! Runners, walkers, dogs (given we're on a trail
+  that allows dogs), even kids can come!
 intro:
   blurbs:
     - image: /img/coffee.png
