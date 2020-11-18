@@ -9,7 +9,7 @@ mainpitch:
   description: >
     This club is for anyone who is interested in meeting other people with
     running/walking interests, as well as possibly making some lifelong
-    friends. 
+    friends.
 description: Once a week there will be an organized run, somewhere on the Green
   Circle Trail, or some other trail in the Stevens Point area, and anyone and
   everyone is welcome to join! Runners, walkers, dogs (given we're on a trail
